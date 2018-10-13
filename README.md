@@ -1,9 +1,4 @@
-# MNIST-Machine-Learning
-
-Excel spreadsheets that were used to demonstrate machine learning in excel
-
-https://www.youtube.com/edit?o=U&video_id=kCL065_0zTY
-
+# MNIST-Machine-Learning in excel
 
 This is the Copyright of the MNIST dataset:
 
