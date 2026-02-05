@@ -13,3 +13,6 @@ Creative Commons Attribution-Share Alike 3.0 license.
 
 More information can be found here:
 http://www.pymvpa.org/datadb/mnist.html
+
+YouTube video
+https://www.youtube.com/watch?v=kCL065_0zTY&t=44s
